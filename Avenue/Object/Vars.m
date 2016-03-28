@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  Vars.m
 //  Avenue
 //
 //  Created by Ana Finotti on 3/27/16.
 //  Copyright © 2016 Finotti. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Vars.h"
 
-@interface ViewController : UIViewController
-
+@implementation Vars
 
 @end
-
